@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: lukaszciechanowicz.me
+description: "AWS | Ansible | Automation | Cloud | DevOps"
+show_downloads: false
+google_analytics: UA-115533085-1
